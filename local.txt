@@ -2,3 +2,5 @@ HIIII
 change again
 change again and again
 change again and again and conflict
+I change local through git (conflict)
+
